@@ -1,9 +1,9 @@
 """
 This module analyzes IPL cricket data to calculate and plot
-the extra runs conceded by each team during the 2016 season.
+the top ten economic bowlers in 2015.
 
 It reads data from the 'matches.csv' and 'deliveries.csv' files,
-filters matches from 2016, computes top 10 economical bowlers by each
+filters matches from 2015, computes top 10 economical bowlers by each
 bowling team, and displays the result as a bar chart.
 """
 
